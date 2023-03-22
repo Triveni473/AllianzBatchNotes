@@ -85,5 +85,5 @@
   259  cat test.html
   260  docker cp test.html web:/var/www/html
   261  docker exec -it web bash
-       curl 172.17.0.4/test.html
+       curl 172.17.0.4/test.html (type http://172.17.0.4/test.html in browser)
   262  history
