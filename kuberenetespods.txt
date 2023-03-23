@@ -45,3 +45,5 @@
    36  kubectl exec -it pod1 -c c2 -- bash
    37  kubectl edit pod pod1
    38  kubectl delete pod pod1
+
+http://www.devopsworld.co.in/p/assigning-pods-to-nodes.html
